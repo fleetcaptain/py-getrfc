@@ -8,6 +8,4 @@ IETF website.
 
 On running the application, currently, it will output
 all the RFC data on the terminal. Writing to files works
-too - but I would love some help in setting up ArgParse.
-
-
+too.
